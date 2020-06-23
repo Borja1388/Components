@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nombres">
+        <item>Ramon</item>
+        <item>Christian</item>
+        <item>Ortega</item>
+        <item>Morales</item>
+        <item>Zulima</item>
+        <item>Sergio</item>
+        <item>Borja</item>
+    </string-array>
+</resources>

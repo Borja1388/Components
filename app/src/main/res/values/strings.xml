@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Components</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="buttonSpinner">Combo (Spinner)</string>
+    <string name="buttonListView">ListView</string>
+    <string name="buttonreciclerview">RecyclerView</string>
+    <string name="addingteam">Adding Team</string>
+    <string name="cancel">Cancelar</string>
+</resources>
